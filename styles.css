@@ -1,0 +1,19 @@
+h2 
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.jumbotron  {
+
+  height: 400px;
+  background-image: url("1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header,footer
+{
+	background-image: url(Fond2.jpg);
+}
